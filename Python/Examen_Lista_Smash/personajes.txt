@@ -1,0 +1,2 @@
+Mario,Super Mario,Super Smash Bros,24,5.0,6,7.0,3.0,4
+Link,Zelda,Super Smash Bros,54,3.0,5,1.0,2.0,6

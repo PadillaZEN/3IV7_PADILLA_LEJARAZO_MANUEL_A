@@ -1,0 +1,7 @@
+Mario,Super Mario,Super Smash Bros,22/82,36.33,98,0.087,1.76,Up-B
+Donkey Kong,Donkey Kong,Super Smash Bros ,68/82,34.0,127,0.085,1.873,Up-B
+Link,The Legend of Zelda,Super Smash Bros,56/82,27.8,104,0.096,1.534,Up-B
+Samus,Metroid,Super Smash Bros,15/82,37.0,108,0.075,1.654,Up-B
+Yoshi,Yoshi,Super Smash Bros,14/82,36.09,104,0.08,2.046,Neutral Air
+Kirby,Kirby,Super Smash Bros,75/82,25.37,79,0.064,1.727,Back Air
+Fox,Star Fox,Super Smash Bros,8/82,35.0,77,0.23,2.402,Down B
